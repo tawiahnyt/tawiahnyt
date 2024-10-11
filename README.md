@@ -1,22 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on
-- Integrating machine learning algorithms into my projects and enhancing the USSD application for the School Information Portal.
-
-👯 I’m looking to collaborate on
-- Innovative AI and machine learning projects, especially those focused on real-world applications and problem-solving.
-
-🤝 I’m looking for help with
-- Advanced machine learning techniques and best practices in deploying AI models in production environments.
-
-🌱 I’m currently learning
-- Deep learning concepts and frameworks like TensorFlow and PyTorch, as well as exploring natural language processing (NLP) techniques.
-
-💬 Ask me about
-- Python programming, machine learning, ethical hacking, or my projects related to AI and web development.
-
-⚡ Fun fact
-- I once built a simple chatbot using Python that could answer trivia questions, and it sparked my passion for AI!
-
+🔭 I’m currently working on Integrating machine learning algorithms into my projects and enhancing the USSD application for the School Information Portal.<br><br>👯 I’m looking to collaborate on Innovative AI and machine learning projects, especially those focused on real-world applications and problem-solving.<br><br>🤝 I’m looking for help with Advanced machine learning techniques and best practices in deploying AI models in production environments.<br><br>🌱 I’m currently learning Machine Learning & Deep learning concepts and frameworks like TensorFlow and PyTorch, as well as exploring natural language processing (NLP) techniques.<br><br>💬 Ask me about Python programming, machine learning, ethical hacking, or my projects related to AI and web development.<br><br>⚡ Fun fact I once built a simple chatbot using Python that could answer trivia questions, and it sparked my passion for AI!<br>
 
 
 ## 🌐 Socials:
@@ -29,8 +12,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tawiahnyt&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tawiahnyt&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tawiahnyt&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=tawiahnyt&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tawiahnyt&icon=0&color=0)](https://visitcount.itsvg.in)
