@@ -1,6 +1,5 @@
 # 💫 About Me:
- 🔭 I’m currently working as a Full Stack Developer<br><br>👯 I’m looking to collaborate on Innovative AI and machine learning projects, especially those focused on real-world applications and problem-solving.<br><br>🤝 I’m looking for help with Advanced machine learning techniques and best practices in deploying AI models in production environments.<br><br>🌱 I’m currently learning Machine Learning & Deep learning concepts and frameworks like TensorFlow and PyTorch, as well as exploring natural language processing (NLP) techniques.<br><br>💬 Ask me about Python programming, machine learning, ethical hacking, or my projects related to AI and web development.<br><br>⚡ Fun fact I enjoy blending my technical skills with creativity
-
+ 🔭 I am a Developer
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__tawiah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/david-tawiah) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/th3milkyw4y) 
